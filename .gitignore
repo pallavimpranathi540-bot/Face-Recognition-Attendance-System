@@ -1,2 +1,5 @@
 /.venv
 .venv/
+Images/
+# Ignore Image folder
+Image/
